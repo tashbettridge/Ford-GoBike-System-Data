@@ -1,5 +1,5 @@
 # Communicate-Data-Findings
-Udacity's Data Analyst Nanodegree - Project 5
+> Udacity's Data Analyst Nanodegree - Project 5
 
 Lyft Bikes - Formerly known as Ford GoBike System Data 
 
@@ -13,7 +13,7 @@ This data set includes information about individual rides made in a bike-sharing
 <a name="desc"></a>
 ## 1. Description
 
-sometext
+
 
 <a name="usage"></a>
 ## 2. Usage tips
