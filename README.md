@@ -13,12 +13,12 @@ This data set includes information about individual rides made in a bike-sharing
 
 1. [ Description. ](#desc)
 2. [ Summary of Findings. ](#usage)
-
-
+3. [ Files. ](#files)
 
 
 <a name="desc"></a>
 ## 1. Description
+
 
 
 
@@ -27,3 +27,9 @@ This data set includes information about individual rides made in a bike-sharing
 
 1.
 2.
+
+## 3. Files 
+
+<a name="files"></a>
+1. readme.md - This Markdown file contains sections that you should fill out as you select your dataset, complete your exploration, and plan your explanatory analysis.
+2. 
