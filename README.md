@@ -8,7 +8,10 @@ Data Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of For
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 
 1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
+2. [ Summary of Findings. ](#usage)
+
+
+
 
 <a name="desc"></a>
 ## 1. Description
@@ -16,6 +19,7 @@ This data set includes information about individual rides made in a bike-sharing
 
 
 <a name="usage"></a>
-## 2. Usage tips
+## 2. Summary of Findings
 
-sometext
+1.
+2.
