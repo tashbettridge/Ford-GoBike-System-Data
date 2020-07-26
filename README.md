@@ -13,6 +13,7 @@ This data set includes information about individual rides made in a bike-sharing
 1. [ Description. ](#desc)
 2. [ Summary of Findings. ](#usage)
 3. [ Files. ](#files)
+4. [  Key Insights for Presentation. ](#key)
 
 
 <a name="desc"></a>
@@ -39,7 +40,7 @@ Formerly known as Ford GoBikes, renamed Lyft Bikes is a regional public bicycle 
 5. 
 
 ## Key Insights for Presentation
-
+<a name="key"></a>
 In the Bay Area, July which is in Summer in the Northen Hemispher is the most popular time to use the Ford Go Bike sharing system. March is also the second most popular time to use the Ford Go Bike sharing system in the Bay Area.
 
 While December which is Winter time in the Northern Hemisphere, is the least popular time to use the Ford Go Bike Sharing System. Therefore, there will be more bikes available due to the usuage of bikes not been used around the Christmas Holidays.
