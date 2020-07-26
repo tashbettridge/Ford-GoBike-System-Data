@@ -6,7 +6,7 @@ Ford GoBike System Data
 Data Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System. 
 
 <p align="center">
-<img max-height=200 height=200 src="https://github.com/ciph3rwoman/Communicate-Data-Findings/blob/master/lyft.jpg"/>
+<img max-height=200 height=200 src="https://github.com/ciph3rwoman/Communicate-Data-Findings/blob/master/FordGoBike.jpg"/>
 </p>
 
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
