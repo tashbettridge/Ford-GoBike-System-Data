@@ -1,6 +1,5 @@
-# Communicate-Data-Findings
-> Udacity's Data Analyst Nanodegree - Project 5
-
+# Communicate-Data-Findings: Udacity's Data Analyst Nanodegree - Project 5
+> By Tash 
 # Ford GoBike System Data 
 
 Data Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System. 
@@ -35,3 +34,8 @@ Formerly known as Ford GoBikes, renamed Lyft Bikes is a regional public bicycle 
 <a name="files"></a>
 1. readme.md - This Markdown file contains sections that you should fill out as you select your dataset, complete your exploration, and plan your explanatory analysis.
 
+## Key Insights for Presentation
+
+In the Bay Area, July which is in Summer in the Northen Hemispher is the most popular time to use the Ford Go Bike sharing system. March is also the second most popular time to use the Ford Go Bike sharing system in the Bay Area.
+
+While December which is Winter time in the Northern Hemisphere, is the least popular time to use the Ford Go Bike Sharing System. Therefore, there will be more bikes available due to the usuage of bikes not been used around the Christmas Holidays.
