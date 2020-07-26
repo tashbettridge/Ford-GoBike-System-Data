@@ -1,8 +1,8 @@
 # Communicate-Data-Findings: Udacity's Data Analyst Nanodegree - Project 5
-> By Tash 
+## By Tash 
 # Ford GoBike System Data 
 
-Data Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System. 
+> Data Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System. 
 
 <p align="center">
 <img max-height=200 height=200 src="https://github.com/ciph3rwoman/Communicate-Data-Findings/blob/master/FordGoBike.jpg"/>
