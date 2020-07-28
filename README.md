@@ -35,10 +35,11 @@ Formerly known as Ford GoBikes, renamed Lyft Bikes is a regional public bicycle 
 
 <a name="files"></a>
 1. README.md - This Markdown file contains sections that you should fill out as you select your dataset, complete your exploration, and plan your explanatory analysis.
-2. Exploration_FordGoBikes_Reference.html
-3. Exploration_FordGoBikes_Reference.ipynb
+2. Exploration_FordGoBikes_Tash_Updated.html
+3. Exploration_FordGoBikes_Tash_Updated.ipynb
 4. Ford_GoBike_slide_deck_Template.ipynb
-5. Ford_GoBike_slide_deck_Template.html
+5. FordGoBike_slide_deck_Template.slides.html
+6. output_toggle.tpl file
 
 
 ## Key Insights for Presentation
