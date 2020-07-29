@@ -52,11 +52,6 @@ While December which is Winter time in the Northern Hemisphere, is the least pop
 <a name="references"></a>
 1. How To Combine Multiple CSV Files In Python: https://sempioneer.com/python-for-seo/how-to-combine-multiple-csv-files-in-python/
 2. FordGoBike Data Set: https://www.lyft.com/bikes/bay-wheels/system-data
-3. Github: https://github.com/ijdev/Ford-GoBike-System-Data---Data-Analysis/blob/master/exploration_template.ipynb, 
-4. Github: https://github.com/satyarajreddy/Udacity-Data-Visualization/blob/master/Visualize_Data.ipynb 
-5. Github: https://gist.github.com/rochacbruno/2883505
-6. Github: https://github.com/chelseymarie6/Communicate-Data-Findings
-7. Github: https://github.com/rishusingh121/fordgobike/blob/master/slide_deck_template.ipynb
-8. Keggle: https://www.kaggle.com/chirag02/ford-gobike-data-analysis
-9. seaborn catplot: https://seaborn.pydata.org/generated/seaborn.catplot.html
-10. matplotlib Documentation: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.hist.html
+3. Keggle: https://www.kaggle.com/chirag02/ford-gobike-data-analysis
+4. seaborn catplot: https://seaborn.pydata.org/generated/seaborn.catplot.html
+5. matplotlib Documentation: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.hist.html
