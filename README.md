@@ -1,4 +1,4 @@
-# Communicate-Data-Findings: Udacity's Data Analyst Nanodegree - Project 5
+# Communicate-Data-Findings: Udacity's Data Analyst Nanodegree
 ## By Tash 
 # Ford GoBike System Data 
 
